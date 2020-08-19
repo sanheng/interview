@@ -12,6 +12,7 @@
 - [常用方法的代码实现](https://github.com/caiyongmin/awesome-coding-javascript)
 - [横向滚动的时候没有 padding](https://chenhuijing.com/blog/flexbox-and-padding/)
 - [200行JS代码，带你实现代码编译器](https://juejin.im/post/5e802e41e51d4546b659b31b)
+- [深入解析你不知道的 EventLoop 和浏览器渲染、帧动画、空闲回调（动图演示）](https://juejin.im/post/5ec73026f265da76da29cb25)
 
 #### css 相关问题
 - [灵活运用CSS开发技巧](https://segmentfault.com/a/1190000020899202)
@@ -22,6 +23,7 @@
 - [为什么会出现React Hooks?](https://juejin.im/post/5d478b2d518825673a6ae1b9)
 - [ReactHooks源码](https://github.com/facebook/react/blob/master/packages/react/src/ReactHooks.js)
 - [React 中获取数据的 3 种方法：哪种最好？](https://juejin.im/post/5dc4ada5f265da4cfb51303e)
+- [react最新fiber架构原理和流程](https://blog.csdn.net/qdmoment/article/details/92837995)
 
 #### webpack 相关问题
 - [webpack是如何实现动态导入的](https://juejin.im/post/5d26e7d1518825290726f67a)
