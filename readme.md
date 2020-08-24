@@ -10,9 +10,16 @@
 - [Android浏览器下line-height垂直居中为什么会偏离？](https://www.zhihu.com/question/39516424/answer/726894528)
 - [什么时候适合使用 Map 而不是 Object](https://juejin.im/post/5f03408d5188252e397ed503)
 - [常用方法的代码实现](https://github.com/caiyongmin/awesome-coding-javascript)
+- [ES6 系列之 Babel 将 Generator 编译成了什么样子](https://github.com/mqyqingfeng/Blog/issues/102)
+- [手写Promise](https://juejin.im/post/6844904160794542094)
+- [手写async await的最简实现](https://juejin.im/post/6844904102053281806)
+- [理解ES6的异步方案Promise/Generator/async](https://www.jianshu.com/p/a067b20426ef)
+- [javascript 异步编程的5种方式](https://juejin.im/post/6844903683524657166)
 - [横向滚动的时候没有 padding](https://chenhuijing.com/blog/flexbox-and-padding/)
 - [200行JS代码，带你实现代码编译器](https://juejin.im/post/5e802e41e51d4546b659b31b)
 - [深入解析你不知道的 EventLoop 和浏览器渲染、帧动画、空闲回调（动图演示）](https://juejin.im/post/5ec73026f265da76da29cb25)
+- [js继承、构造函数继承、原型链继承、组合继承、组合继承优化、寄生组合继承](https://segmentfault.com/a/1190000015216289)
+- [帮你彻底搞懂JS中的prototype、__proto__与constructor（图解）](https://blog.csdn.net/cc18868876837/article/details/81211729)
 
 #### css 相关问题
 - [灵活运用CSS开发技巧](https://segmentfault.com/a/1190000020899202)
