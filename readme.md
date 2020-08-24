@@ -20,6 +20,8 @@
 - [深入解析你不知道的 EventLoop 和浏览器渲染、帧动画、空闲回调（动图演示）](https://juejin.im/post/5ec73026f265da76da29cb25)
 - [js继承、构造函数继承、原型链继承、组合继承、组合继承优化、寄生组合继承](https://segmentfault.com/a/1190000015216289)
 - [帮你彻底搞懂JS中的prototype、__proto__与constructor（图解）](https://blog.csdn.net/cc18868876837/article/details/81211729)
+- [使用reduce实现map](https://juejin.im/post/6844903780392108046)
+- [JS中的函数去抖与节流](https://segmentfault.com/a/1190000015935715)
 
 #### css 相关问题
 - [灵活运用CSS开发技巧](https://segmentfault.com/a/1190000020899202)
