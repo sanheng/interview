@@ -42,5 +42,6 @@
 - [读完这篇你还不懂Babel我给你寄口罩](https://juejin.im/post/6844904065223098381)
 
 #### 其他
+- [进程间8种通信方式详解](https://blog.csdn.net/violet_echo_0908/article/details/51201278)
 - [软件版本 —— Alpha、Beta、RC版本的区别](https://blog.csdn.net/waynelu92/article/details/73604172/)
 - [解决github访问时图裂、加载慢的问题](https://github.com/521xueweihan/GitHub520)
